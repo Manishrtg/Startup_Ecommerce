@@ -91,7 +91,7 @@ export default function AboutPage({ onNavigate }: AboutPageProps) {
                     <Users className="text-white" size={40} />
                   </div>
                   <h3 className="text-2xl font-bold mb-2">Founder</h3>
-                  <p className="text-green-100">Meet the visionary</p>
+                  <p className="text-green-100">Meet the visionary</p>k 
                 </div>
                 <div className="md:col-span-2 p-8">
                   <h2 className="text-2xl font-bold text-gray-900 mb-4">Manish Kumar</h2>

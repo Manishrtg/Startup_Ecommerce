@@ -93,7 +93,7 @@ UPDATE products SET
 WHERE slug = 'organic-jaggery';
 
 UPDATE products SET 
-  price_from = 450,
+  price_from = 1100,
   price_unit = 'per kg',
   is_flagship = false
 WHERE slug = 'organic-makhana';
